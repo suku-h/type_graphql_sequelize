@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "types": [],
+    "module": "commonjs",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "scripthost",
+      "es2015.promise",
+      "es2015",
+      "es2016"
+    ],
+    "watch": true,
+    "forceConsistentCasingInFileNames": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "newLine": "LF",
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": false,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitUseStrict": true,
+    "pretty": true,
+    "sourceMap": false
+  },
+  "compileOnSave": true,
+  "exclude": [
+    "node_modules"
+  ]
+}

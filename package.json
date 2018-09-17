@@ -1,0 +1,29 @@
+{
+  "name": "type_graphql_sequelize",
+  "version": "1.0.0",
+  "description": "A project that integrates type_graphql with graphql_sequelize",
+  "main": "app.ts",
+  "scripts": {
+    "dev": "ts-node-dev src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "type_graphql_sequelize"
+  },
+  "keywords": [
+    "type-graphql",
+    "typescript",
+    "sequelize"
+  ],
+  "author": "Sukumar Honkote",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.0.6",
+    "express": "^4.16.3",
+    "graphql": "^14.0.2",
+    "graphql-shield": "^3.2.2",
+    "pg": "^7.4.3",
+    "sequelize": "^4.38.1",
+    "type-graphql": "^0.14.0"
+  }
+}
