@@ -1,4 +1,5 @@
 import * as Sequelize from 'sequelize'
+import 'reflect-metadata'
 
 const sequelize = new Sequelize(
   'graphqltutdb',
