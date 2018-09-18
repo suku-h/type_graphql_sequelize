@@ -13,7 +13,7 @@
     ],
     "watch": true,
     "forceConsistentCasingInFileNames": true,
-    "removeComments": true,
+    "removeComments": false,
     "preserveConstEnums": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
